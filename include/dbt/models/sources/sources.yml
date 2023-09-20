@@ -1,0 +1,9 @@
+version: 1
+
+sources:
+  - name: retail
+    database: retail-project-399409
+
+    tables:
+      - name: raw_invoices
+			- name: country
