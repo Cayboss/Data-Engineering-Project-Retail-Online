@@ -1,6 +1,7 @@
 # Data Engineering Project: Retail Online
 This project involves building a data pipeline from A to Z that extracts data from a CSV file, stores the data in BigQuery, interacts with DBT, implements and runs data quality checks with Soda, and finally creates a dashboard with PowerBI.
 
+![pipline](https://github.com/Cayboss/Data-Engineering-Project-Retail-Online/assets/91347085/9a9a1314-c6c9-441d-bdaa-f3b50b7f1484)
 
 
 ### Table of Content
@@ -8,7 +9,6 @@ This project involves building a data pipeline from A to Z that extracts data fr
 2. Dataset
 3. Data Modeling
 4. Project Summary
-5. Results
 
 
 
@@ -56,9 +56,11 @@ The project has the following components:
   
 - Container Deployment (Docker)
   
-- Data Visualization (Power BI): A basic report was created with Power BI, check results.
+- Data Visualization (Power BI): A basic report was created with Power BI.
+
+  Power BI Report
+  
+<img width="566" alt="report" src="https://github.com/Cayboss/Data-Engineering-Project-Retail-Online/assets/91347085/3fdfdd56-e6bb-4b09-8d94-f188b87e18e8">
 
 
-## 5. Results
-Please find the screenshots below.
 
